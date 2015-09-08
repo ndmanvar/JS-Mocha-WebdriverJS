@@ -1,0 +1,12 @@
+{
+  "name": "selenium-webdriverjs-test",
+  "version": "0.0.0",
+  "description": "Parallel tests with Mocha and Webdriverio  =============",
+  "main": "",
+  "devDependencies": {
+    "parallel-mocha": "*",
+    "mocha": "*",
+    "selenium-webdriver": "*",
+    "saucelabs": "0.1.1"
+  }
+}
