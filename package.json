@@ -5,8 +5,8 @@
   "main": "",
   "devDependencies": {
     "parallel-mocha": "*",
-    "mocha": "*",
-    "selenium-webdriver": "*",
+    "mocha": "1.18.2",
+    "selenium-webdriver": "2.42.1",
     "saucelabs": "0.1.1"
   }
 }
