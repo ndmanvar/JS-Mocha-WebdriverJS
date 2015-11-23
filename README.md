@@ -25,16 +25,7 @@ npm install
 ## 4/ Inspect the code
 
 - The mocha test suite is in `tests/sample-spec.js`
-- The parallel runner is in `Makefile`
-
-## 5/ Run tests
-
-```
-BROWSER=firefox VERSION=31 PLATFORM=XP ./node_modules/.bin/parallel-mocha tests/*.js
-BROWSER="internet explorer" VERSION=10 PLATFORM="Windows 7"./node_modules/.bin/parallel-mocha tests/*.js
-```
-
-Go [here](https://saucelabs.com/tests) to view the tests.
+- The parallel runner is in `Gruntfile.js`
 
 ## 6/ Run tests in parallel
 
