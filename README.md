@@ -11,7 +11,7 @@ export SAUCE_ACCESS_KEY=<SAUCE_ACCESS_KEY>
 ## 2/ Install tools
 
 ```
-npm install -g mocha
+npm install -g grunt-cli
 ```
 
 ## 3/ Install local package
