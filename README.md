@@ -30,7 +30,7 @@ npm install
 ## 6/ Run tests in parallel
 
 ```
-make
+grunt
 ```
 
 Go [here](https://saucelabs.com/tests) to view the tests.
